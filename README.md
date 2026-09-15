@@ -76,8 +76,20 @@ subotiegor2006-oss (1):
 
 ## SSH
 
-Подключение к GitHub выполнено по SSH.
-Публичный ключ добавлен в настройки аккаунта GitHub.
+SSH-ключ создан (ed25519) и добавлен в настройки GitHub.
+
+Проверка подключения:
+
+```bash
+ssh -T git@github.com
+```
+
+Вывод:
+
+```text
+Hi subotiegor2006-oss! You've successfully authenticated, but GitHub does not provide shell access.
+```
+
 Remote:
 
 ```text
