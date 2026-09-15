@@ -1,0 +1,11 @@
+     5	eewzp
+     1	subotiegor2006-oss
+eewzp (5):
+      docs: добавить README с данными студента и заданиями варианта
+      feat: добавить main.py с простой функцией приветствия
+      feat: добавить utils.py в ветке feature
+      feat: слить ветку feature с основной
+      chore: добавить .gitignore для Python-проекта
+
+subotiegor2006-oss (1):
+      Initial commit

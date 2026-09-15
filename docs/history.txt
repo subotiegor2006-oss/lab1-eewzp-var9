@@ -1,0 +1,8 @@
+* ba9774f chore: добавить .gitignore для Python-проекта
+*   94c1e1d feat: слить ветку feature с основной
+|\
+| * 169724e feat: добавить utils.py в ветке feature
+|/
+* baeee2f feat: добавить main.py с простой функцией приветствия
+* 0fa9758 docs: добавить README с данными студента и заданиями варианта
+* b56e496 Initial commit
